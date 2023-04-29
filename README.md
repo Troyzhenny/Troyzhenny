@@ -9,7 +9,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on a RageMp server for GTA V<br>
-👯 I’m looking to collaborate on mainly games<br>
+👯 I’m looking to collaborate on mainly games and open source apps<br>
 🤝 I’m looking for coding friends<br>
 🌱 I’m currently learning JavaScript, and VUEjs<br>
 💬 Ask me about my discord server
