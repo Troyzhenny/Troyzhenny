@@ -19,6 +19,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tevin-campbell-b1b404203)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@troyzhen)
 [![Discord](https://img.shields.io/badge/Discord-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)](https://discord.gg/4a8vV8nC3z)
+[![Discord](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/4a8vV8nC3z)
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
