@@ -9,9 +9,8 @@
 
 #
 🔭 I’m currently working on a RAGEMP server for GTA V<br>
-👯 I’m looking to collaborate on mainly games and open source apps<br>
-🤝 I’m looking for coding friends<br>
-🌱 I’m currently learning JavaScript, and REACT<br>
+👯 I’m looking to collaborate on mainly games and open-source apps<br>
+🤝 I’m looking to connect with other developers<br>
 
 
 ## 🌐 Socials:
