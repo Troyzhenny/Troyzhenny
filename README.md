@@ -2,13 +2,13 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://)
 
 <h1 align="center">Hi 👋, I'm Tevin Troy Campbell</h1>
-<h3 align="center">I'm a passionate and curious frontend developer.</h3>
 
 <!-- Tea Gif -->
 <!-- <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Tea"> -->
 
 #
-👯 I’m interested in web, and game developmet.<br>
+🔭 I’m currently working on a RAGEMP server for GTA V<br>
+👯 I’m looking to collaborate on mainly games and open-source apps<br>
 🤝 I’m looking to connect with other developers<br>
 
 
@@ -22,6 +22,9 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinitydesigner-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![GitBash](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
