@@ -7,8 +7,8 @@
 <!-- <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Tea"> -->
 
 #
-👯 I’m looking to collaborate on mainly games and open-source apps<br>
-🤝 I’m looking to connect with other developers<br>
+🚀 I’m looking to collaborate on mainly games and open-source apps<br>
+and/or connect with other developers<br>
 
 
 ## 🌐 Socials:
