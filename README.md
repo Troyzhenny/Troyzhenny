@@ -5,7 +5,7 @@
 
 # <h3>I'm Tevin Troy Campbell</h3>
 🚀 I’m currently looking for a job in front-end development<br>
-⚡ I am interested in web development, and currently learning react.js<br>
+⚡ I am interested in web development, and currently learning Vue.js<br>
 ☁️ ask me about collaborating<br>
 ✍️ You can reach me at my email tevincampbell73@yahoo.com or discord <b>@troyzhen</b>
 
@@ -19,7 +19,7 @@
 <br>
 # <h3>💻 Tools & Tech Stack:</h3>
 <h3>Frontend</h3>
-• Html5, CSS3, JavaScript, Sass, React.js, Tailwindcss, Bootstrap
+• Html5, CSS3, JavaScript, Sass, Vue.js, Tailwindcss.
 <br>
 <h3>Tools</h3>
 • Git, Github
@@ -28,6 +28,7 @@
 • Notion
 <br>
 <h3>Web Design</h3>
-• Affinity Designer, Figma 
+• Affinity Designer, Figma
+<br>
 
 [![](https://visitcount.itsvg.in/api?id=Troyzhenny&icon=3&color=2)](https://visitcount.itsvg.in)
