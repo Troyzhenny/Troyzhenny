@@ -4,8 +4,8 @@
 <h2 align="center">Hello 👋</h2>
 
 # <h3>I'm Tevin Troy Campbell</h3>
-🚀 I’m currently looking for a job in front-end development<br>
-⚡ I am interested in web development, and currently learning Vue.js<br>
+🚀 I’m actively searching for a career in frontend web development<br>
+⚡ I am interested in web development and currently learning Vuejs<br>
 ☁️ ask me about collaborating<br>
 ✍️ You can reach me at my email tevincampbell73@yahoo.com or discord <b>@troyzhen</b>
 
