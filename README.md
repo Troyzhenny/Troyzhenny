@@ -9,7 +9,7 @@
 
 # <h3>I'm Tevin Troy Campbell</h3>
 🚀 I’m actively searching for a career in frontend web development<br>
-⚡ I am interested in web, and mobile development and currently learning Vuejs<br>
+⚡ I am interested in web, and game development<br>
 ☁️ ask me about collaborating<br>
 ✍️ You can reach me at my email tevincampbell73@yahoo.com or discord <b>@troyzhen</b>
 
