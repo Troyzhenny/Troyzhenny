@@ -14,12 +14,12 @@
 ✍️ You can reach me at my email tevincampbell73@yahoo.com or discord <b>@troyzhen</b>
 
 
-## <h3>🌐 Connect:</h3>
+<h3>🌐 Connect:</h3>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tevin-campbell-b1b404203)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@troyzhen)
 <!-- [![Discord](https://img.shields.io/badge/Discord-%231B72BE.svg?logo=Discord&logoColor=white)](https://discord.gg/4a8vV8nC3z) -->
 <br>
-## <h3>💻 Tools & Tech Stack:</h3>
+<h3>💻 Tools & Tech Stack:</h3>
 <h3>Frontend</h3>
 • Html5, CSS3, JavaScript, Sass, Vue.js, Tailwindcss.
 <br>
