@@ -21,13 +21,13 @@
 <br>
 <h3>💻 Tools & Tech Stack:</h3>
 <h3>Frontend</h3>
-• Html5, CSS3, JavaScript, Sass, Vue.js, Tailwindcss.
+• Html5, CSS3, JavaScript, Sass, React, Vue, Tailwindcss.
 <br>
 <h3>Tools</h3>
 • Git, Github
 <br>
 <h3>Project Management</h3>
-• Notion
+• Notion, ClickUp
 <br>
 <h3>Web Design</h3>
 • Affinity Designer, Figma
