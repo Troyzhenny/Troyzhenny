@@ -8,10 +8,10 @@
 <h2 align="center">Hello 👋</h2>
 
 # <h3>I'm Tevin Troy Campbell</h3>
-🚀 I’m actively searching for a career in frontend web development<br>
-⚡ I am interested in web, and game development<br>
-☁️ ask me about collaborating<br>
-✍️ You can reach me at my  discord <b>@troyzhen</b>
+
+⚡ I am interested in web, and mobile development and am currently learning Vuejs<br>
+✍️ You can reach me at my discord <b>@troyzhen</b>
+
 
 
 ## <h3>🌐 Connect:</h3>
@@ -27,10 +27,13 @@
 • Git, Github
 <br>
 <h3>Project Management</h3>
-• Notion, ClickUp
+• Notion
+• ClickUp
 <br>
 <h3>Web Design</h3>
 • Affinity Designer, Figma
+<br>
+<br>
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=Troyzhenny&icon=3&color=2)](https://visitcount.itsvg.in)
