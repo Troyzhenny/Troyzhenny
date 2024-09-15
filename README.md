@@ -9,7 +9,7 @@
 
 # <h3>I'm Tevin Troy Campbell</h3>
 
-⚡ I am interested in web, and mobile development and am currently learning Vuejs<br>
+⚡ I am interested in web development and currently learning TypeScript<br>
 ✍️ You can reach me at my discord <b>@troyzhen</b>
 
 
