@@ -24,7 +24,7 @@
 • Html5, CSS3, JavaScript, Sass, React, Vue, Tailwindcss.
 <br>
 <h3>Tools</h3>
-• Git, Github
+• Git, Github, Gitlab
 <br>
 <h3>Project Management</h3>
 • Notion
