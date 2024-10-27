@@ -21,7 +21,7 @@
 <br>
 <h3>💻 Tools & Tech Stack:</h3>
 <h3>Frontend</h3>
-• Html5, CSS3, JavaScript, Sass, React, Vue, Tailwindcss.
+• Html5, CSS3, JavaScript, Sass, React, Tailwindcss.
 <br>
 <h3>Tools</h3>
 • Git, Github, Gitlab
