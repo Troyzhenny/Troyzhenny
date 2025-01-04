@@ -9,7 +9,7 @@
 
 # <h3>I'm Tevin Troy Campbell</h3>
 
-⚡ I am interested in web development<br>
+⚡ I am interested in web, and game development<br>
 ✍️ You can reach me at my discord <b>@troyzhen</b>
 
 
