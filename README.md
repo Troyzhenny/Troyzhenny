@@ -27,8 +27,7 @@
 • Git, Github, Gitlab
 <br>
 <h3>Project Management</h3>
-• Notion
-• Jira
+• Notion, Jira
 <br>
 <h3>Web Design</h3>
 • Affinity Designer, Figma
