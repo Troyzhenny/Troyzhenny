@@ -20,18 +20,21 @@
 <!-- [![Discord](https://img.shields.io/badge/Discord-%231B72BE.svg?logo=Discord&logoColor=white)](https://discord.gg/4a8vV8nC3z) -->
 <br>
 <h3>💻 Tools & Tech Stack:</h3>
-<h3>Frontend</h3>
-• Html5, CSS3, JavaScript, Sass, Vue, React, Tailwindcss.
+<h3>Web Development</h3>
+• Javascript, Html, Css, Sass, TailwindCss, Vue, React, Nextjs
 <br>
 <h3>Tools</h3>
 • Git, Github, Gitlab
 <br>
 <h3>Project Management</h3>
 • Notion
-• ClickUp
+• Jira
 <br>
 <h3>Web Design</h3>
 • Affinity Designer, Figma
+<br>
+<h3>Game Development</h3>
+• C++, Javascript
 <br>
 <br>
 <br>
