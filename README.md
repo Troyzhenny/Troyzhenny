@@ -9,7 +9,7 @@
 
 # <h3>I'm Tevin Troy Campbell</h3>
 
-⚡ I am interested in web, and game development<br>
+⚡ I am interested in Web, Graphics Programming and Game Development<br>
 ✍️ You can reach me at my LinkedIn 👇
 
 
@@ -21,7 +21,7 @@
 <br>
 <h3>💻 Tools & Tech Stack:</h3>
 <h3>Web Development</h3>
-• Javascript, Html, Css, Sass, TailwindCss, Vue, React, Nextjs
+• Javascript, Html, Css, Tailwind, Vue, React, Next, Nuxt
 <br>
 <h3>Tools</h3>
 • Git, Github, Gitlab
@@ -33,7 +33,7 @@
 • Affinity Designer, Figma
 <br>
 <h3>Game Development</h3>
-• C++, Javascript
+• C++, Cmake, Lua
 <br>
 <br>
 <br>
