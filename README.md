@@ -30,10 +30,10 @@
 • Notion, Jira
 <br>
 <h3>Web Design</h3>
-• Affinity Designer, Figma
+• Affinity, Figma
 <br>
 <h3>Game Development</h3>
-• C++, Cmake, Lua
+• C++, Cmake
 <br>
 <br>
 <br>
