@@ -9,7 +9,7 @@
 
 # <h3>I'm Tevin Troy Campbell</h3>
 
-⚡ I am interested in Web, Graphics Programming and Game Development<br>
+⚡ I am interested in Frontend Web Development, Graphics Programming and Game Development<br>
 ✍️ You can reach me at my LinkedIn 👇
 
 
