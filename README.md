@@ -33,7 +33,7 @@
 • Affinity, Figma
 <br>
 <h3>Game Development</h3>
-• C++, Cmake
+• C++, Cmake, DirectX 
 <br>
 <br>
 <br>
