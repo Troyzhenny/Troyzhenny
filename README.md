@@ -9,7 +9,7 @@
 
 # <h3>I'm Tevin Troy Campbell</h3>
 
-⚡ I am interested in Frontend Web Development, Graphics Programming and Game Development<br>
+⚡ I'm a frontend developer, also interested DirectX 12, graphics programming, and game development<br> 
 ✍️ You can reach me at my LinkedIn 👇
 
 
@@ -19,15 +19,15 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@troyzhen)
 <!-- [![Discord](https://img.shields.io/badge/Discord-%231B72BE.svg?logo=Discord&logoColor=white)](https://discord.gg/4a8vV8nC3z) -->
 <br>
-<h3>💻 Tools & Tech Stack:</h3>
+<h3>💻 Tech Stack:</h3>
 <h3>Web Development</h3>
 • Javascript, Html, Css, Tailwind, Vue, React, Next, Nuxt
 <br>
-<h3>Tools</h3>
+<h3> DevOps | Tools</h3>
 • Git, Github, Gitlab
 <br>
 <h3>Project Management</h3>
-• Notion, Jira
+• Notion, GitHub, Jira, ClickUp
 <br>
 <h3>Web Design</h3>
 • Affinity, Figma
